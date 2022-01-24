@@ -10,9 +10,11 @@
 
 ## **Education**
 
-Web Development Diploma *Universty_of_Alberta*
-National Construction Safety Officer *ACSA*
-Electronics Technician *SAIT*
+- Web Development Diploma *Universty_of_Alberta*
+- National Construction Safety Officer *ACSA*
+- Electronics Technician *SAIT*
+
+
 
 
 
